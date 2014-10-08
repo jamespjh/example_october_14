@@ -4,5 +4,5 @@ Some notes about mountains
 Cumbria has some mountains
 
 Scafell Pike
-Blencathraaaaaaa
+Blencathra
 Helvellyn
